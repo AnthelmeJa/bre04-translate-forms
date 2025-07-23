@@ -1,0 +1,18 @@
+{
+  "site_title" : "Translated Forms",
+  "nav_login_link" : "Login",
+  "nav_register_link" : "Register",
+  "nav_switch_link" : "Switch Language",
+  "login_email_label" : "Email",
+  "login_password_label" : "Password",
+  "login_submit_button" : "Login",
+  "login_register_text" : "You do not yet have an account ?",
+  "login_link_text" : "Register here",
+  "create_username_label" : "Choose a username",
+  "create_email_label" : "Enter your email",
+  "create_password_label" : "Choose a password",
+  "create_confirmPassword_label" : "Confirm your password",
+  "create_register_button" : "Register",
+  "create_register_text" : "You already have an account ?",
+  "create_link_text" : "Login here"
+}
